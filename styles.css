@@ -1,7 +1,7 @@
-h1 {
-  font-family: "Poppins", sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 96px;
-  line-height: 144px;
+header {
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("images/Mpumalanga.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
